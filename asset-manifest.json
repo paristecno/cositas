@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/cositas/static/css/main.1a13f07b.css",
-    "main.js": "/cositas/static/js/main.4316f075.js",
+    "main.css": "/cositas/static/css/main.6235f578.css",
+    "main.js": "/cositas/static/js/main.d36824e1.js",
+    "static/media/bannerPC.png": "/cositas/static/media/bannerPC.e1279443d707e6151686.png",
+    "static/media/banerCelu.png": "/cositas/static/media/banerCelu.ee716e84f58bb076cade.png",
     "index.html": "/cositas/index.html",
-    "main.1a13f07b.css.map": "/cositas/static/css/main.1a13f07b.css.map",
-    "main.4316f075.js.map": "/cositas/static/js/main.4316f075.js.map"
+    "main.6235f578.css.map": "/cositas/static/css/main.6235f578.css.map",
+    "main.d36824e1.js.map": "/cositas/static/js/main.d36824e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a13f07b.css",
-    "static/js/main.4316f075.js"
+    "static/css/main.6235f578.css",
+    "static/js/main.d36824e1.js"
   ]
 }
