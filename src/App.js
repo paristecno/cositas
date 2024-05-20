@@ -1,8 +1,11 @@
+import Home from "./components/Landing/Home/Home";
+import NavBar from "./components/Landing/NavBar/NavBar";
 
 function App() {
   return (
-    <div>
-      <h1>hola</h1>
+    <div className="">
+      <NavBar/>
+      <Home/>
     </div>
   );
 }
