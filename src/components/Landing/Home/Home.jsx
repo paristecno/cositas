@@ -75,7 +75,7 @@ const Home = () => {
       id: 7,
       discount: 50,
 
-      name: 'Arabian Musk',
+      name: 'Arabiana Musk',
       image: 'https://kanji.com.ar/wp-content/uploads/2024/02/tv-32-06.jpg',
       sale: true,
       originalPrice: 79.00,
