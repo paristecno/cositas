@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/cositas/static/css/main.6235f578.css",
-    "main.js": "/cositas/static/js/main.d36824e1.js",
-    "static/media/bannerPC.png": "/cositas/static/media/bannerPC.e1279443d707e6151686.png",
-    "static/media/banerCelu.png": "/cositas/static/media/banerCelu.ee716e84f58bb076cade.png",
+    "main.css": "/cositas/static/css/main.49ca8e89.chunk.css",
+    "main.js": "/cositas/static/js/main.39ce3eed.chunk.js",
+    "main.js.map": "/cositas/static/js/main.39ce3eed.chunk.js.map",
+    "runtime-main.js": "/cositas/static/js/runtime-main.79535c4f.js",
+    "runtime-main.js.map": "/cositas/static/js/runtime-main.79535c4f.js.map",
+    "static/js/2.cc7c1aaa.chunk.js": "/cositas/static/js/2.cc7c1aaa.chunk.js",
+    "static/js/2.cc7c1aaa.chunk.js.map": "/cositas/static/js/2.cc7c1aaa.chunk.js.map",
     "index.html": "/cositas/index.html",
-    "main.6235f578.css.map": "/cositas/static/css/main.6235f578.css.map",
-    "main.d36824e1.js.map": "/cositas/static/js/main.d36824e1.js.map"
+    "precache-manifest.22d1ed975a840eaf4ba83dc1a0430ddd.js": "/cositas/precache-manifest.22d1ed975a840eaf4ba83dc1a0430ddd.js",
+    "service-worker.js": "/cositas/service-worker.js",
+    "static/css/main.49ca8e89.chunk.css.map": "/cositas/static/css/main.49ca8e89.chunk.css.map",
+    "static/js/2.cc7c1aaa.chunk.js.LICENSE.txt": "/cositas/static/js/2.cc7c1aaa.chunk.js.LICENSE.txt",
+    "static/media/banerCelu.png": "/cositas/static/media/banerCelu.d8b45319.png",
+    "static/media/bannerPC.png": "/cositas/static/media/bannerPC.49fc3273.png"
   },
   "entrypoints": [
-    "static/css/main.6235f578.css",
-    "static/js/main.d36824e1.js"
+    "static/js/runtime-main.79535c4f.js",
+    "static/js/2.cc7c1aaa.chunk.js",
+    "static/css/main.49ca8e89.chunk.css",
+    "static/js/main.39ce3eed.chunk.js"
   ]
 }
