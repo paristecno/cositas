@@ -8,7 +8,6 @@ const Detalle = () => {
         <ol role="list" className="flex items-center">
           <li className="text-left">
             <div className="-m-1">
-              <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800"> Home </a>
             </div>
           </li>
   
@@ -16,7 +15,6 @@ const Detalle = () => {
             <div className="flex items-center">
               <span className="mx-2 text-gray-400">/</span>
               <div className="-m-1">
-                <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800"> Products </a>
               </div>
             </div>
           </li>
@@ -25,7 +23,6 @@ const Detalle = () => {
             <div className="flex items-center">
               <span className="mx-2 text-gray-400">/</span>
               <div className="-m-1">
-                <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800" aria-current="page"> Coffee </a>
               </div>
             </div>
           </li>
@@ -150,12 +147,9 @@ const Detalle = () => {
         <div className="lg:col-span-3">
           <div className="border-b border-gray-300">
             <nav className="flex gap-4">
-              <a href="#" title="" className="border-b-2 border-gray-900 py-4 text-sm font-medium text-gray-900 hover:border-gray-400 hover:text-gray-800"> Description </a>
   
-              <a href="#" title="" className="inline-flex items-center border-b-2 border-transparent py-4 text-sm font-medium text-gray-600">
                 Reviews
                 <span className="ml-2 block rounded-full bg-gray-500 px-2 py-px text-xs font-bold text-gray-100"> 1,209 </span>
-              </a>
             </nav>
           </div>
   
