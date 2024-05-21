@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0209d95745be2d776789322e9cdcbab8",
+    "revision": "b58fe876eb02534795ae220653760e2a",
     "url": "/cositas/index.html"
   },
   {
-    "revision": "10022ebe80603606b839",
+    "revision": "cb22275a5f5a25abe6e6",
     "url": "/cositas/static/css/main.49ca8e89.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cositas/static/js/2.61f50414.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10022ebe80603606b839",
-    "url": "/cositas/static/js/main.6857c7d1.chunk.js"
+    "revision": "cb22275a5f5a25abe6e6",
+    "url": "/cositas/static/js/main.e5a22325.chunk.js"
   },
   {
     "revision": "0eef642559342cdc3c68",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cositas/static/css/main.49ca8e89.chunk.css",
-    "main.js": "/cositas/static/js/main.6857c7d1.chunk.js",
-    "main.js.map": "/cositas/static/js/main.6857c7d1.chunk.js.map",
+    "main.js": "/cositas/static/js/main.e5a22325.chunk.js",
+    "main.js.map": "/cositas/static/js/main.e5a22325.chunk.js.map",
     "runtime-main.js": "/cositas/static/js/runtime-main.79535c4f.js",
     "runtime-main.js.map": "/cositas/static/js/runtime-main.79535c4f.js.map",
     "static/js/2.61f50414.chunk.js": "/cositas/static/js/2.61f50414.chunk.js",
     "static/js/2.61f50414.chunk.js.map": "/cositas/static/js/2.61f50414.chunk.js.map",
     "index.html": "/cositas/index.html",
-    "precache-manifest.a8cb6a6c28e4f5bf45d3cd27c46dd79d.js": "/cositas/precache-manifest.a8cb6a6c28e4f5bf45d3cd27c46dd79d.js",
+    "precache-manifest.a5bcdc9dd59b7f9aac7901203ef2661e.js": "/cositas/precache-manifest.a5bcdc9dd59b7f9aac7901203ef2661e.js",
     "service-worker.js": "/cositas/service-worker.js",
     "static/css/main.49ca8e89.chunk.css.map": "/cositas/static/css/main.49ca8e89.chunk.css.map",
     "static/js/2.61f50414.chunk.js.LICENSE.txt": "/cositas/static/js/2.61f50414.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.79535c4f.js",
     "static/js/2.61f50414.chunk.js",
     "static/css/main.49ca8e89.chunk.css",
-    "static/js/main.6857c7d1.chunk.js"
+    "static/js/main.e5a22325.chunk.js"
   ]
 }
