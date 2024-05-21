@@ -143,7 +143,7 @@ const Home = () => {
   
 
   return (
-    <div className='mt-[-7px]'>
+    <div className='mt-[-8px]'>
       <div className="mx-auto max-w-screen-xl">
       <div className="relative">
   <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500"></div>
@@ -213,17 +213,17 @@ const Home = () => {
         <img src={pc} className='mb-10' alt="Banner PC" />
       </div>
 
-      <div className='items-center justify-center flex flex-col h-full'>
-  <h1 className='text-3xl font-bold text-red-500 text-center'>{"¡OFERTAS HOT SALE!"}</h1>
+      <div className='items-center bg-slate-200  justify-center flex flex-col h-full'>
+  <h1 className='text-3xl mt-5 font-bold text-red-500 text-center'>{"¡OFERTAS HOT SALE!"}</h1>
   <p className='text-xl text-lg text-gray-800 text-center'>{"¡Disfruta de toda la copa américa! Llevate tu SMART TV FULL HD 32\" en 3, 6, 12, 18 o 24 cuotas sin interés. 🎉⚽"}</p>
-  <p className='text-lg text-gray-500 text-center'>{"(Oferta válida hasta agotar stock 26/05/2024)"}</p>
+  <p className='text-lg text-gray-500 mb-5 text-center'>{"(Oferta válida hasta agotar stock 26/05/2024)"}</p>
 </div>
 
 <section className="bg-white py-12 text-gray-700 sm:py-16 lg:py-20">
   <div className="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
-    <div className="grid grid-cols-2 gap-6 lg:grid-cols-4 lg:gap-4">
+    <div className="grid grid-cols-2 gap-6 lg:grid-cols-4  lg:gap-4">
       {productsSale.map((product) => (
-        <article key={product.id} className="relative">
+        <article key={product.id} className="relative ">
           <div className="aspect-square overflow-hidden">
             <img
               className="group-hover:scale-125 h-full w-full object-cover transition-all duration-300"
@@ -241,10 +241,8 @@ const Home = () => {
           <div className="mt-4 flex items-start justify-between">
             <div>
               <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                <a href="#" title="" className="cursor-pointer">
                   {product.name}
                   <span className="absolute" aria-hidden="true"></span>
-                </a>
               </h3>
               <div className="mt-2 flex items-center">
                 {[...Array(product.ratings)].map((_, index) => (
@@ -274,15 +272,20 @@ const Home = () => {
               </p>
             </div>
           </div>
+          <button
+  className="w-full text-center flex items-center text-white mt-2 justify-center gap-1 rounded border border-slate-300 bg-green-500 px-4 py-2 font-semibold hover:opacity-90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-slate-300 focus-visible:ring-offset-2 active:opacity-100"
+>
+  VER MÁS
+</button>
         </article>
       ))}
     </div>
   </div>
 </section>
 
-<div className='items-center justify-center flex flex-col h-full'>
-  <h1 className='text-3xl font-bold text-red-500 text-center'>{"↓ Más productos ↓"}</h1>
-  <p className='text-xl text-lg text-gray-800 text-center'>{"¡Explora lo último en tecnología! 🔍 Con Mercado Pago compra seguro, envío gratis a toda la Argentina. ✨🚚"}</p>
+<div className='items-center bg-slate-200  justify-center flex flex-col h-full'>
+  <h1 className='text-3xl mt-5 font-bold text-red-500 text-center'>{"↓ Más productos ↓"}</h1>
+  <p className='text-xl mb-5 text-lg text-gray-800 text-center'>{"¡Explora lo último en tecnología! 🔍 Con Mercado Pago compra seguro, envío gratis a toda la Argentina. ✨🚚"}</p>
 </div>
 
 
@@ -302,10 +305,8 @@ const Home = () => {
               <div className="mt-4 flex items-start justify-between">
                 <div className="">
                   <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                    <a href="#" title="" className="">
                       {product.name}
                       <span className="absolute" aria-hidden="true"></span>
-                    </a>
                   </h3>
                   <div className="mt-2 flex items-center">
                     {[...Array(product.ratings)].map((_, index) => (
@@ -323,6 +324,13 @@ const Home = () => {
                   <p className="text-xs font-normal sm:text-sm md:text-base">$99.00</p>
                 </div>
               </div>
+              <button
+  className="w-full text-center flex items-center text-white mt-2 justify-center gap-1 rounded border border-slate-300 bg-green-500 px-4 py-2 font-semibold hover:opacity-90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-slate-300 focus-visible:ring-offset-2 active:opacity-100"
+>
+  VER MÁS
+</button>
+
+
             </article>
           ))}
         </main>
