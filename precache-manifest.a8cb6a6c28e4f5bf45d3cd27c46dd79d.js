@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "614fddff574483e856eb86d387b1fe5b",
+    "revision": "0209d95745be2d776789322e9cdcbab8",
     "url": "/cositas/index.html"
   },
   {
-    "revision": "2d04bd18f268305c3f3a",
+    "revision": "10022ebe80603606b839",
     "url": "/cositas/static/css/main.49ca8e89.chunk.css"
   },
   {
-    "revision": "16493cb902558cb903f7",
-    "url": "/cositas/static/js/2.cc7c1aaa.chunk.js"
+    "revision": "8d8e5c87a500f74d1ddb",
+    "url": "/cositas/static/js/2.61f50414.chunk.js"
   },
   {
-    "revision": "60f6bf9e100e456690e9ab6c9a37bfc2",
-    "url": "/cositas/static/js/2.cc7c1aaa.chunk.js.LICENSE.txt"
+    "revision": "16b7c4048695d95b84247e068fe23ab7",
+    "url": "/cositas/static/js/2.61f50414.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d04bd18f268305c3f3a",
-    "url": "/cositas/static/js/main.39ce3eed.chunk.js"
+    "revision": "10022ebe80603606b839",
+    "url": "/cositas/static/js/main.6857c7d1.chunk.js"
   },
   {
     "revision": "0eef642559342cdc3c68",
