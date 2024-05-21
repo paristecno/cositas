@@ -7,11 +7,11 @@ import Detalle from "./components/Detail/Detalle/Detalle";
 function App() {
   return (
     <Router>
-      <div className="b-">
+      <div>
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/detail" element={<Detalle />} />
+          <Route path="/detalle" element={<Detalle />} />
         </Routes>
       </div>
     </Router>
