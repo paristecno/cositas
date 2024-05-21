@@ -4,7 +4,7 @@ import Detalle from './components/Detail/Detalle/Detalle';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/cositas">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/detail" element={<Detalle />} />
